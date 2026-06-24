@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.2",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.2.1",
   "minRequiredVersionCode": 1,
-  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.2/app-release.apk",
-  "releaseNotes": "Добавление возможности изменять привязки дарка у куратора",
+  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.2.1/app-release.apk",
+  "releaseNotes": "Мелкие улучшения",
   "enabled": true
 }
