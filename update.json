@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "1.2.1",
+  "latestVersionCode": 7,
+  "latestVersionName": "1.3.0",
   "minRequiredVersionCode": 1,
-  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.2.1/app-release.apk",
-  "releaseNotes": "Мелкие улучшения",
+  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.3.0/app-release.apk",
+  "releaseNotes": "Добавление возможности авторизации через Яндекс",
   "enabled": true
 }
