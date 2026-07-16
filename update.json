@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 9,
-  "latestVersionName": "1.3.3",
+  "latestVersionCode": 10,
+  "latestVersionName": "1.3.4",
   "minRequiredVersionCode": 1,
-  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.3.3/app-release.apk",
-  "releaseNotes": "Обязательное обновление. Серверные доработки",
+  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.3.4/app-release.apk",
+  "releaseNotes": "Исправления",
   "enabled": true
 }
