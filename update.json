@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "1.4.0",
-  "minRequiredVersionCode": 1,
-  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.4.0/app-release.apk",
-  "releaseNotes": "Доработка функционала для куратора.",
-  "enabled": true
+    "latestVersionCode":  15,
+    "latestVersionName":  "1.4.1",
+    "minRequiredVersionCode":  1,
+    "apkDownloadUrl":  "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.4.1/app-release.apk",
+    "releaseNotes":  "Доработка функционала для куратора.",
+    "enabled":  true
 }
