@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 20,
-  "latestVersionName": "1.4.7",
+  "latestVersionCode": 21,
+  "latestVersionName": "1.4.8",
   "minRequiredVersionCode": 1,
-  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.4.7/app-release.apk",
-  "releaseNotes": "Мелкие исправления",
+  "apkDownloadUrl": "https://github.com/knexus27/vv-tmc-releases/releases/download/v1.4.8/app-release.apk",
+  "releaseNotes": "Добавление функционала для куратора",
   "enabled": true
 }
